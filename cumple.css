@@ -656,8 +656,8 @@ footer p {
     }
 
     #barra-navegacion img {
-        width: 25%;
-        height: 70%;
+        width: 30%;
+        height: 90%;
         margin:0 0 0 0.25em;
         padding: 0em 0.1em;
     }
@@ -667,17 +667,17 @@ footer p {
     }
 
     #portada {
-        height: 40em;
+        height: 45em;
         margin: 0 0.1em;
     }
     .text-box h2 {
-        font-size: 1.9rem;
+        font-size: 2.4rem;
     }
 
     .text-box span {
         color: rgb(240, 116, 203);
         font-weight: 900;
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
 
     @keyframes type {
