@@ -650,36 +650,52 @@ footer p {
     }
 
     #barra-navegacion {
-        height: 5em;
+        height: 4em;
         margin:0 0 0 0.25em;
         padding: 0em 0.25em;
     }
 
     #barra-navegacion img {
         width: 25%;
-        height: 60%;
+        height: 70%;
         margin:0 0 0 0.25em;
         padding: 0em 0.1em;
     }
 
     #menu ul a{
-        font-size: 0.65rem;
+        font-size: 0.7rem;
     }
 
     #portada {
-        height: 35em;
+        height: 40em;
         margin: 0 0.1em;
     }
     .text-box h2 {
-        font-size: 1.5rem;
+        font-size: 1.9rem;
     }
 
     .text-box span {
         color: rgb(240, 116, 203);
         font-weight: 900;
-        font-size: 1.6rem;
+        font-size: 2rem;
     }
 
+    @keyframes type {
+	to {
+	left: 110%;
+	}
+    }
+
+    @keyframes blink {
+        0% , 50%{
+        opacity: 0;
+        } 
+	    
+       51%, 100% {
+       opacity: 1;
+       }
+    }
+	
     #primera-seccion {
         height: 22em;
         margin: 0 0.1em;
