@@ -667,17 +667,17 @@ footer p {
     }
 
     #portada {
-        height: 45em;
+        height: 50em;
         margin: 0 0.1em;
     }
     .text-box h2 {
-        font-size: 2.4rem;
+        font-size: 2.2rem;
     }
 
     .text-box span {
         color: rgb(240, 116, 203);
         font-weight: 900;
-        font-size: 2.5rem;
+        font-size: 2.3rem;
     }
 
     @keyframes type {
@@ -697,9 +697,9 @@ footer p {
     }
 	
     #primera-seccion {
-        height: 22em;
+        height: 33em;
         margin: 0 0.1em;
-        gap: 0.1rem;
+        gap: 0rem;
     }
 
     #primera-seccion-grid {
