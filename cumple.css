@@ -69,10 +69,10 @@
   }
   
   /* */
-  /*############################## **  *****  Text Box - Footer *****  ** ##############################*/
+  /*############################## **  *****  Portada  *****  ** ##############################*/
 
 #portada {
-    height: 33em;
+    height: 58.5em;
     width: 98%;
     background-image: url(https://joseluisgalvis.github.io/Proyecto-5to/fondo.jpg);
     background-position: center center;
@@ -87,10 +87,8 @@
     margin: 0 0 0 1em;
 }
 
-/*############################## **  *****  Text Box - Footer *****  ** ##############################*/
+/*############################## **  *****  Text - Box  --  Portada *****  ** ##############################*/
   
-#portada /*############################## **  *****  Text Box - Footer *****  ** ##############################*/
-
 .text-box{
   overflow-x: hidden;
   background:rgba(216, 11, 223, 0.767);
@@ -165,7 +163,7 @@
 /*############################## **  *****  Text Box - Footer *****  ** ##############################*/
 
 #primera-seccion {
-    height: 33em;
+    height: 44.7em;
     width: 98%;
     background-image: url(https://joseluisgalvis.github.io/Proyecto-5to/foto2.jpg);
     background-position: center center;
@@ -194,7 +192,6 @@
 }
 
 #primera-seccion-grid {
-    /*height: 600px;*/
     text-align: center;
     display: grid;
     grid-template-columns: repeat(2,1fr);
